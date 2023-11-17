@@ -56,7 +56,7 @@ declare enable_asan=0
 declare enable_lsan=0
 declare verbose=1
 declare codecov=0
-declare debug=0
+declare debug=1
 declare test=0
 
 pasres_arguments() {
